@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882827058439",
+    "project_id": "finalflowerproject",
+    "storage_bucket": "finalflowerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882827058439:android:d938f50f4fa01d9cdb39a2",
+        "android_client_info": {
+          "package_name": "com.example.level3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFD4k2AQ3rOIooifNY5NuNRb1Kq9DLQOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
